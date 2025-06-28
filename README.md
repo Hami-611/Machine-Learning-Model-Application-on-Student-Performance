@@ -40,7 +40,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 ```
 ---
-##👩‍💻 Author
+## 👩‍💻 Author
 Hamika, Aeronautical Engineering Graduate transitioning into IT with skills in Python, ML, and Data Science.
 
 You can save this content into a file named `README.md` in your project directory. Let me know if you want the README tailored to a GitHub-specific format (with badges, etc.) or exported as a downloadable `.md` or `.pdf` file.
